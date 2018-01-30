@@ -1,0 +1,208 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.sidebar {
+  border: 1px #091719;
+  border-style: solid;
+  height: 826px;
+  width: 20%;
+  box-sizing: border-box;
+  background-color: #091719;
+}
+
+.title {
+  border: 1px white;
+  border-style: solid;
+  height: 100px;
+  text-align: center;
+  background-color: white;
+}
+
+.title h1 {
+  font-size: 40px;
+  font-weight: lighter;
+  color: black;
+  padding: 10px;
+}
+
+.title p {
+  color: grey;
+  font-size: 10px;
+}
+
+.menu {
+
+}
+
+.home-section {
+  border: 1px #56555561;
+  border-style: solid;
+  float: right;
+  height: 40px;
+  width: 100%;
+  text-align: right;
+  background-color: #56555561;
+}
+
+.home-section:active {
+	background-color: #40e0d0c7;
+}
+
+.home {
+  position: relative;
+  top: 12px;
+  right: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.work-secton {
+  position: relative;
+  top: 25px;
+  color: white;
+  text-decoration: none;
+  border: 1px #56555561;
+  border-style: solid;
+  height: 40px;
+  width: 100%;
+  background-color: #56555561;
+}
+
+.work {
+  position: relative;
+  top: -12px;
+  right: 10px;
+  color: white;
+  float: right;
+  text-decoration: none;
+}
+
+.about-section {
+  position: relative;
+  top: 8px;
+  color: white;
+  text-decoration: none;
+  border: 1px #56555561;
+  border-style: solid;
+  height: 40px;
+  width: 100%;
+  background-color: #56555561;
+}
+
+.about {
+  position: relative;
+  top: 12px;
+  right: 10px;
+  color: white;
+  float: right;
+  text-decoration: none;
+}
+
+.blog-section {
+  position: relative;
+  top: -9px;
+  color: white;
+  text-decoration: none;
+  border: 1px #56555561;
+  border-style: solid;
+  height: 40px;
+  width: 100%;
+  background-color: #56555561;
+}
+
+.blog {
+  position: relative;
+  top: 12px;
+  right: 10px;
+  color: white;
+  float: right;
+  text-decoration: none;
+}
+
+.services-section {
+  position: relative;
+  top: -26px;
+  color: white;
+  text-decoration: none;
+  border: 1px #56555561;
+  border-style: solid;
+  height: 40px;
+  width: 100%;
+  background-color: #56555561;
+}
+
+.services {
+  position: relative;
+  top: 12px;
+  right: 10px;
+  color: white;
+  float: right;
+  text-decoration: none;
+}
+
+.contact-section {
+  position: relative;
+  top: -43px;
+  color: white;
+  text-decoration: none;
+  border: 1px #56555561;
+  border-style: solid;
+  height: 40px;
+  width: 100%;
+  background-color: #56555561;
+}
+
+.contact {
+  position: relative;
+  top: 12px;
+  right: 10px;
+  color: white;
+  float: right;
+  text-decoration: none;
+}
