@@ -283,3 +283,76 @@ table {
 	font-size: 10px;
   color: grey;
 }
+
+/*picture layout*/
+
+/*row one*/
+
+.section-1 {
+	border: 1px black;
+  border-style: solid;
+  height: 28%;
+  width: 84%;
+  position: absolute;
+  top: 0%;
+  left: 16%;
+}
+
+.brown-suger {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+}
+
+.brown-suger img {
+	height: 100%;
+  width: 100%;
+}
+
+.cupcake {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 25%;
+}
+
+.cupcake img {
+	height: 100%;
+  width: 100%;
+}
+
+.white-dishes {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 50%;
+}
+
+.white-dishes img {
+	height: 100%;
+  width: 100%;
+}
+
+.cutting-board {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 75%;
+}
+
+.cutting-board img {
+	height: 100%;
+  width: 100%;
+}
+
+/*row two*/
