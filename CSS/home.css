@@ -356,3 +356,213 @@ table {
 }
 
 /*row two*/
+
+.section-2 {
+	border: 1px black;
+  border-style: solid;
+  height: 28%;
+  width: 84%;
+  position: absolute;
+  top: 28%;
+  left: 16%;
+}
+
+.dirt-bike {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+.dirt-bike img {
+	height: 100%;
+  width: 100%;
+}
+
+.phone {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 25%;
+}
+
+.phone img {
+	height: 100%;
+  width: 100%;
+}
+
+.coin {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 50%;
+}
+
+.coin img {
+	height: 100%;
+  width: 100%;
+}
+
+.dance {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 75%;
+}
+
+.dance img {
+	height: 100%;
+	width: 100%;
+}
+
+.section-3 {
+	border: 1px black;
+  border-style: solid;
+  height: 28%;
+  width: 84%;
+  position: absolute;
+  top: 56%;
+  left: 16%;
+}
+
+.mellon {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+.mellon img {
+	height: 100%;
+	width: 100%;
+}
+
+.firework {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 25%;
+}
+
+.firework img {
+	height: 100%;
+	width: 100%;
+}
+
+.glasses {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 50%;
+}
+
+.glasses img {
+	height: 100%;
+	width: 100%;
+}
+
+.snow {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 75%;
+}
+
+.snow img {
+	height: 100%;
+	width: 100%;
+}
+
+.section-4 {
+	border: 1px black;
+  border-style: solid;
+  height: 180px;
+  width: 84%;
+  position: absolute;
+  top: 84%;
+  left: 16%;
+}
+
+.lemon {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+.lemon img {
+	height: 100%;
+	width: 100%;
+}
+
+.chess {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 25%;
+}
+
+.chess img {
+	height: 100%;
+	width: 100%;
+}
+
+.office {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 50%;
+}
+
+.office img {
+	height: 100%;
+	width: 100%;
+}
+
+.flower {
+	border: 1px #3e2e24;
+  border-style: solid;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 75%;
+}
+
+.flower img {
+	height: 100%;
+	width: 100%;
+}
